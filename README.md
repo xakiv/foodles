@@ -28,7 +28,7 @@ and tests are available for a coverage score greater than 90%
 ### Installation
 
 ```commandline
-git pull https://github.com/xakiv/foodles foodles
+git clone https://github.com/xakiv/foodles foodles
 cd foodles/
 python3 -m venv venv
 source venv/bin/activate
